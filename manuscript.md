@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-07-08" />
   <meta name="citation_publication_date" content="2025-07-08" />
   <meta property="article:published_time" content="2025-07-08" />
-  <meta name="dc.modified" content="2025-07-08T08:34:08+00:00" />
-  <meta property="article:modified_time" content="2025-07-08T08:34:08+00:00" />
+  <meta name="dc.modified" content="2025-07-08T09:26:20+00:00" />
+  <meta property="article:modified_time" content="2025-07-08T09:26:20+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/" />
   <meta name="citation_pdf_url" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rfb-data-hub.github.io/phase-1-refined-protocols/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/eb93a25c3fcbf82ba8b6ede4a4989a2b356202d2/" />
+  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/eb93a25c3fcbf82ba8b6ede4a4989a2b356202d2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/eb93a25c3fcbf82ba8b6ede4a4989a2b356202d2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rfb-data-hub.github.io/phase-1-refined-protocols/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/))
+([permalink](https://rfb-data-hub.github.io/phase-1-refined-protocols/v/eb93a25c3fcbf82ba8b6ede4a4989a2b356202d2/))
 was automatically generated
-from [rfb-data-hub/phase-1-refined-protocols@ca748bf](https://github.com/rfb-data-hub/phase-1-refined-protocols/tree/ca748bf4e80a830d7bee69a20b1fae18e028d9e6)
+from [rfb-data-hub/phase-1-refined-protocols@eb93a25](https://github.com/rfb-data-hub/phase-1-refined-protocols/tree/eb93a25c3fcbf82ba8b6ede4a4989a2b356202d2)
 on July 8, 2025.
 </em></small>
 

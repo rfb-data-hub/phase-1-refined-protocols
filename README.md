@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Refined protocols for flow battery characterization
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -6,12 +6,15 @@
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://rfb-data-hub.github.io/phase-1-refined-protocols/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/rfb-data-hub/phase-1-refined-protocols/workflows/Manubot/badge.svg)](https://github.com/rfb-data-hub/phase-1-refined-protocols/actions)
 
-## Manuscript description
+## Document description
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This collaborative document defines refined procedures / protocols based on the experience if the phase 1 participants of the interlaboratory study on flow cell cycling. It uses Manubot as tool.
+
+## Review process
+
+Everybody in the team can create branches and make changes in that branch. In order to make these changes part of the final document, you need to get these changes merged into the `main` branch. All changes will undergo a review, which gives team members the opportunity to comment on your suggested changes. In order to start this process, you create a pull request. The codeowners (Alex Quinn, Josh Bailey) of this repository will review the request and – upon consensus – will merge the changes into the `main` branch making it part of the document.
 
 ## Manubot
 

@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/rfb-data-hub/phase-1-refined-protocols/tree/gh-pages) branch hosts the contents of this directory at <https://rfb-data-hub.github.io/phase-1-refined-protocols/>.
-The permalink for this webpage version is <https://rfb-data-hub.github.io/phase-1-refined-protocols/v/eb93a25c3fcbf82ba8b6ede4a4989a2b356202d2/>.
+The permalink for this webpage version is <https://rfb-data-hub.github.io/phase-1-refined-protocols/v/fa75ba0cbc7d160fccc1141f2bd5236a6a6e496a/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://rfb-data-hub.github.io/phase-1-refined-protocols/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`eb93a25c3fcbf82ba8b6ede4a4989a2b356202d2`](https://github.com/rfb-data-hub/phase-1-refined-protocols/commit/eb93a25c3fcbf82ba8b6ede4a4989a2b356202d2).
+[`fa75ba0cbc7d160fccc1141f2bd5236a6a6e496a`](https://github.com/rfb-data-hub/phase-1-refined-protocols/commit/fa75ba0cbc7d160fccc1141f2bd5236a6a6e496a).

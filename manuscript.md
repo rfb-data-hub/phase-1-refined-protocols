@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-09-17'
+date-meta: '2025-09-18'
 author-meta:
 - John Doe
 - Jane Roe
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-09-17" />
-  <meta name="citation_publication_date" content="2025-09-17" />
-  <meta property="article:published_time" content="2025-09-17" />
-  <meta name="dc.modified" content="2025-09-17T07:53:18+00:00" />
-  <meta property="article:modified_time" content="2025-09-17T07:53:18+00:00" />
+  <meta name="dc.date" content="2025-09-18" />
+  <meta name="citation_publication_date" content="2025-09-18" />
+  <meta property="article:published_time" content="2025-09-18" />
+  <meta name="dc.modified" content="2025-09-18T12:55:01+00:00" />
+  <meta property="article:modified_time" content="2025-09-18T12:55:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/" />
   <meta name="citation_pdf_url" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rfb-data-hub.github.io/phase-1-refined-protocols/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/fa75ba0cbc7d160fccc1141f2bd5236a6a6e496a/" />
-  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/fa75ba0cbc7d160fccc1141f2bd5236a6a6e496a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/fa75ba0cbc7d160fccc1141f2bd5236a6a6e496a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/5cf2e76aec7a79c9a3012499ad1e3818efa6f8a2/" />
+  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/5cf2e76aec7a79c9a3012499ad1e3818efa6f8a2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/5cf2e76aec7a79c9a3012499ad1e3818efa6f8a2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rfb-data-hub.github.io/phase-1-refined-protocols/v/fa75ba0cbc7d160fccc1141f2bd5236a6a6e496a/))
+([permalink](https://rfb-data-hub.github.io/phase-1-refined-protocols/v/5cf2e76aec7a79c9a3012499ad1e3818efa6f8a2/))
 was automatically generated
-from [rfb-data-hub/phase-1-refined-protocols@fa75ba0](https://github.com/rfb-data-hub/phase-1-refined-protocols/tree/fa75ba0cbc7d160fccc1141f2bd5236a6a6e496a)
-on September 17, 2025.
+from [rfb-data-hub/phase-1-refined-protocols@5cf2e76](https://github.com/rfb-data-hub/phase-1-refined-protocols/tree/5cf2e76aec7a79c9a3012499ad1e3818efa6f8a2)
+on September 18, 2025.
 </em></small>
 
 

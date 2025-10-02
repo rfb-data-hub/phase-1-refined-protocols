@@ -5,9 +5,9 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2025-09-18'
+date-meta: '2025-10-02'
 author-meta:
-- John Doe
+- Josh Bailey
 - Jane Roe
 header-includes: |
   <!--
@@ -20,18 +20,18 @@ header-includes: |
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2025-09-18" />
-  <meta name="citation_publication_date" content="2025-09-18" />
-  <meta property="article:published_time" content="2025-09-18" />
-  <meta name="dc.modified" content="2025-09-18T12:55:01+00:00" />
-  <meta property="article:modified_time" content="2025-09-18T12:55:01+00:00" />
+  <meta name="dc.date" content="2025-10-02" />
+  <meta name="citation_publication_date" content="2025-10-02" />
+  <meta property="article:published_time" content="2025-10-02" />
+  <meta name="dc.modified" content="2025-10-02T13:28:06+00:00" />
+  <meta property="article:modified_time" content="2025-10-02T13:28:06+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Josh Bailey" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/" />
   <meta name="citation_pdf_url" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rfb-data-hub.github.io/phase-1-refined-protocols/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/5cf2e76aec7a79c9a3012499ad1e3818efa6f8a2/" />
-  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/5cf2e76aec7a79c9a3012499ad1e3818efa6f8a2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/5cf2e76aec7a79c9a3012499ad1e3818efa6f8a2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/249119187e08a0aa787e5b515ec5dc3d4d4090d5/" />
+  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/249119187e08a0aa787e5b515ec5dc3d4d4090d5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/phase-1-refined-protocols/v/249119187e08a0aa787e5b515ec5dc3d4d4090d5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rfb-data-hub.github.io/phase-1-refined-protocols/v/5cf2e76aec7a79c9a3012499ad1e3818efa6f8a2/))
+([permalink](https://rfb-data-hub.github.io/phase-1-refined-protocols/v/249119187e08a0aa787e5b515ec5dc3d4d4090d5/))
 was automatically generated
-from [rfb-data-hub/phase-1-refined-protocols@5cf2e76](https://github.com/rfb-data-hub/phase-1-refined-protocols/tree/5cf2e76aec7a79c9a3012499ad1e3818efa6f8a2)
-on September 18, 2025.
+from [rfb-data-hub/phase-1-refined-protocols@2491191](https://github.com/rfb-data-hub/phase-1-refined-protocols/tree/249119187e08a0aa787e5b515ec5dc3d4d4090d5)
+on October 2, 2025.
 </em></small>
 
 
@@ -81,12 +81,12 @@ on September 18, 2025.
 
 
 
-+ **John Doe**
++ **Josh Bailey**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [JoshJBailey123](https://github.com/JoshJBailey123)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
     [johndoe](https://twitter.com/johndoe)
     · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
